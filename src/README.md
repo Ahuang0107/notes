@@ -1,3 +1,3 @@
 # Introduction
 
-a self-development notes, include my project summaries and knowledge graph.
+self-development notes, include my project summaries and knowledge graph.
